@@ -28,7 +28,7 @@ module.exports = {
         port: 587, // secure SMTP
         secure: false, // false for TLS - as a boolean not string - but the default is false so just remove this completely
         auth: {
-            user: '1412572@student.hcmus.edu.vn',
+            user: '1312489@student.hcmus.edu.vn',
             pass: 'Vietnam2015'
         },
         tls: {
